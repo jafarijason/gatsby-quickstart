@@ -7,7 +7,7 @@ export default function Home() {
       <p>What a world.</p>
       <img src="https://source.unsplash.com/random/400x200" alt="" />
       <button class="primary-button">Click me</button>
-      <PrimaryButton>Click me</PrimaryButton>
+      {/* <PrimaryButton>Click me</PrimaryButton> */}
 
     </div>
   )
